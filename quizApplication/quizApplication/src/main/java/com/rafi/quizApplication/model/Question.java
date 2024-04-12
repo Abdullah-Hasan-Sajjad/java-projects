@@ -11,7 +11,7 @@ import lombok.Data;
 public class Question {
 
     @Id // it makes the id Primary Key
-    @GeneratedValue(strategy = GenerationType.SEQUENCE) // make the id auto generated
+    @GeneratedValue(strategy = GenerationType.IDENTITY) // make the id auto generated
     private Integer id;
     private String category;
     private String questionTitle;
