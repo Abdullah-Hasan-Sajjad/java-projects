@@ -1,8 +1,8 @@
-# React + Vite
+<h3>This is the front end of the Movie Review site, built using</h3> 
+<h1> React and Bootstrap</h1>  
+The data fetched from the backend API built using Spring Boot and MongoDB.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Preview : 
 
-Currently, two official plugins are available:
+https://github.com/Abdullah-Hasan-Sajjad/java-projects/assets/64843174/cf103790-6888-43de-bd2d-5535821eb351
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
